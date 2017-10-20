@@ -11,6 +11,9 @@ you can see a live demo he created and a great tutorial for setting up the appli
 http://angularcode.com/angularjs-datagrid-paging-sorting-filter-using-php-and-mysq
 
 But, before that compelte the following steps:
+
+Deployment Steps
+----------------
 1. Create CentOS 7.4 virtual machine.
 You can choose any hypervisor you want, i presonally like using Virtualbox for it's easy usage and stability. Go straight to the CentOS offical site and download a minimal CentOS 7.4 ISO file. Now, you can deploy your machine right from the hypervisor's GUI, you got a lot tutorials on the net.
 
